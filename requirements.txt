@@ -1,0 +1,9 @@
+psycopg2
+pandas
+statsmodels==0.14.4
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+hyperopt
